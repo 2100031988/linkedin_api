@@ -185,8 +185,6 @@ finally:
 #
 #
 # # Example usage
-# client_id = '78ans2hzt2cwfv'
-# client_secret = 'sRtmd5DCUsykp9qJ'
 # get_linkedin_data(client_id, client_secret, 'John', 'Doe')
 # get_linkedin_data_browser(client_id, client_secret, 'John', 'Doe')
 
